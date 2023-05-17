@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vo Khanh Duy</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://i.etsystatic.com/26582651/r/il/2cb088/2765809960/il_fullxfull.2765809960_60p3.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyrk&label=Profile%20views&color=0e75b6&style=flat" alt="duyrk" /> </p>
 
 

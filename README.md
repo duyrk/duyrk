@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/raikouzz" target="blank"><img src="https://img.shields.io/twitter/follow/raikouzz?logo=twitter&style=for-the-badge" alt="raikouzz" /></a> </p>
 
-- 🔭 I’m currently working on **Manga App**
-
 - 🌱 I’m currently learning **Reactjs, React Native**
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **duyvo761@gmail.com**
+- 📫 How to reach me **duyrk07@gmail.com**
 
-- ⚡ Fun fact **I'm a funny guy**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

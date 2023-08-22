@@ -2,17 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vo Khanh Duy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyrk&label=Profile%20views&color=0e75b6&style=flat" alt="duyrk" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/raikouzz" target="blank"><img src="https://img.shields.io/twitter/follow/raikouzz?logo=twitter&style=for-the-badge" alt="raikouzz" /></a> </p>
-
-- 🌱 I’m currently coding with **Reactjs, React Native**
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **duyrk07@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

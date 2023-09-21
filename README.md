@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vo Khanh Duy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyrk&label=Profile%20views&color=0e75b6&style=flat" alt="duyrk" /> </p>
+<p align="left"> <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="duyrk" /> </p>
 
 - 📫 How to reach me **duyrk07@gmail.com**
 

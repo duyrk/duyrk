@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyrk&show_icons=true&theme=dracula&locale=en" alt="duyrk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyrk&theme=dracula" alt="duyrk" /></p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4a2flb4w8niyok5hfopbuhfp1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=4a2flb4w8niyok5hfopbuhfp1&redirect=true)
